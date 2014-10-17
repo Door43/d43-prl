@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[prl:home|Door43 (prl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-prl|d43-prl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-prl/archive/master.zip|d43-prl.zip]]
+
+**Recent Changes**
+{{changes>ns = prl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/prl|Ethnologue data]]
+
